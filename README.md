@@ -1,7 +1,11 @@
 Hello, my name is Anh Duc Le; you can call me Duke
+
 〽️ I'm currently an undergraduate student at the University of Michigan studying Mathematics of Finance and Data Science
+
 My interests lie in Stochastic Analysis (specifically in BSDE), PDE, and Machine Learning
+
 I'm currently learning more about Mean-field games, Stochastic Control, and Reinforcement Learning
+
 How to reach me: anhleduc@umich.edu
 
 <!--
