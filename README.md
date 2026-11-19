@@ -1,12 +1,14 @@
-Hello, my name is Anh Duc Le; you can call me Duke
+# Hello! I'm Anh Duc Le (Duke)
 
-〽️ I'm currently an undergraduate student at the University of Michigan studying Mathematics of Finance and Data Science
+🎓 I'm an undergraduate student at the **University of Michigan – Ann Arbor**, pursuing a double major in **Mathematics of Finance and Data Science**.
 
-My interests lie in Stochastic Analysis (specifically in BSDE), PDE, and Machine Learning
+- My research interests lie at the intersection of **Stochastic Analysis, Partial Differential Equations (PDEs), and Machine Learning**, particularly their theoretical foundations and computational applications in mathematical and quantitative finance.
 
-I'm currently learning more about Mean-field games, Stochastic Control, and Reinforcement Learning
+- I'm particularly interested in **Backward Stochastic Differential Equations (BSDEs)** and their extensions, including reflected BSDEs and BSDEs with jumps (RBSDEJs). I'm also exploring **Mean-Field Games, Stochastic Control, and Reinforcement Learning**, especially their connections with modern machine learning methods.
 
-How to reach me: anhleduc@umich.edu
+- Beyond theoretical work, I enjoy developing computational approaches to mathematical finance, including deep learning-based numerical methods for high-dimensional stochastic systems, option pricing, and financial modeling. I'm also open to exploring ideas and methodologies from other fields and discovering new interdisciplinary research directions.
+
+- 📫 **Feel free to reach out:** anhleduc@umich.edu
 
 <!--
 **ducanh19082007/ducanh19082007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
