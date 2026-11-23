@@ -4,7 +4,7 @@
 
 - My research interests lie at the intersection of **Stochastic Analysis, Partial Differential Equations (PDEs), and Machine Learning**, particularly their theoretical foundations and computational applications in mathematical and quantitative finance.
 
-- I'm particularly interested in **Backward Stochastic Differential Equations (BSDEs)** and their extensions, including reflected BSDEs with jumps and further (Second Order). I'm also exploring **Mean-Field Games, Stochastic Control, and Reinforcement Learning**, especially their connections with modern machine learning methods.
+- I'm particularly interested in **Backward Stochastic Differential Equations (BSDEs)** and their extensions. I'm also exploring **Mean-Field Games, Stochastic Control, and Reinforcement Learning**, especially their connections with modern machine learning methods.
 
 - Beyond theoretical work, I enjoy developing computational approaches to mathematical finance, including deep learning-based numerical methods for high-dimensional stochastic systems, option pricing, and financial modeling. I'm also open to exploring ideas and methodologies from other fields and discovering new interdisciplinary research directions.
 
